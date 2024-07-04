@@ -1,6 +1,4 @@
-package gson.serialization;
-
-import com.github.javafaker.Bool;
+package com.thetestingacademy.pojos;
 
 public class Booking {
 

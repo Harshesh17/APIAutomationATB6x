@@ -1,6 +1,6 @@
 package com.thetestingacademy.pojos;
 
-public class Token {
+public class TokenResponse {
 
     private String token;
 

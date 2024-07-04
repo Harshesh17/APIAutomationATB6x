@@ -1,8 +1,9 @@
-package gson.serialization;
+package com.thetestingacademy.pojos;
 
 public class BookingDates {
 
     String checkin;
+    String checkout;
 
     public String getCheckin() {
         return checkin;
@@ -20,5 +21,5 @@ public class BookingDates {
         this.checkout = checkout;
     }
 
-    String checkout;
+
 }

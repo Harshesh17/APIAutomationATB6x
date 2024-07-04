@@ -1,2 +1,4 @@
-package com.thetestingacademy.tests.integration;public class TCintegration {
+package com.thetestingacademy.tests.integration;
+
+public class TCintegration {
 }
