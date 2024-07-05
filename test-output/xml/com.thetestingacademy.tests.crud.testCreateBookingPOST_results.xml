@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.644">
+           time="3.965">
     <properties></properties>
 
 
 
             <testcase
-                name="testCreateBookingNegative"
-                time="1.285"
+                name="testCreateBooking"
+                time="2.687"
                 classname="com.thetestingacademy.tests.crud.testCreateBookingPOST">
             </testcase>
             <testcase
-                name="testCreateBooking"
-                time="2.359"
+                name="testCreateBookingNegative"
+                time="1.278"
                 classname="com.thetestingacademy.tests.crud.testCreateBookingPOST">
             </testcase>
 </testsuite>
